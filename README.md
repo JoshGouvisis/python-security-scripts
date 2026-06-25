@@ -43,4 +43,4 @@ These labs are part of the [Google Cybersecurity Professional Certificate](https
 
 ## 👤 Author
 
-**Joshua Gouvisis** — [LinkedIn](https://linkedin.com/in/joshgouvisis) | [GitHub](https://github.com/JGouvisis)
+**Joshua Gouvisis** — [LinkedIn](https://www.linkedin.com/in/joshgouvisis/) | [GitHub](https://github.com/JoshGouvisis)
